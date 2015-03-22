@@ -1,0 +1,53 @@
+
+{
+    "playlist": [
+        {
+            "url": "img/other/1.jpg",
+            "caption": "7th Annual Students' Recognition"
+        },
+        {
+            "url": "img/other/2.jpg",
+            "caption": "Technofest 2014"
+        },
+        {
+            "url": "img/other/3.jpg",
+            "caption": "iTam Night"
+        },
+        {
+            "url": "img/other/4.jpg",
+            "caption": "Friendship Games 2014"
+        },
+        {
+            "url": "img/other/5.jpg",
+            "caption": "Clash of the iTams"
+        },
+        {
+            "url": "img/other/6.jpg",
+            "caption": "iTam Ambassadors."
+        },
+        {
+            "url": "img/other/7.jpg",
+            "caption": "Variety Show 2013."
+        },
+        {
+            "url": "img/other/8.jpg",
+            "caption": "FEU Athletic League 2014"
+        },
+        {
+            "url": "img/other/9.jpg",
+            "caption": "Leadership and Training Seminar"
+        },
+        {
+            "url": "img/other/10.jpg",
+            "caption": "Student Leaders"
+        },
+        {
+             "url": "img/other/11.jpg",
+            "caption": "Community Immersion"
+        }
+    ],
+
+   "hold_time":5,
+    "loops":null,
+	 "transition_time":1
+}

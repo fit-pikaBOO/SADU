@@ -1,0 +1,32 @@
+html,body{
+	margin:0;
+	padding: 0;
+	height:100%;
+}
+
+#header {
+	width: 100%;
+	margin: 20px 0px 20px 10px;
+	font-size: 24px;
+	color: white;
+}
+#leftnav {
+
+	background-color: #009900;
+	min-height: 100%;
+	width: 25%;
+	float:left;
+}
+
+#maindiv{
+	background-color: #FFFF66;
+	min-height: 100%;
+	width: 75%;
+	float:left;
+
+}
+
+#footer{
+	text-align: right;
+	margin-right: 10px;
+}
